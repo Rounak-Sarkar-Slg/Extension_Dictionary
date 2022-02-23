@@ -1,0 +1,13 @@
+{
+    "name": "My_Dictionary",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "dictio.png"
+    },
+    "icons": {
+        "128": "dictio.png"
+    },
+    "permissions":["activeTab"]
+}
